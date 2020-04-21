@@ -137,4 +137,4 @@ end
 
 # How to improve on this:
 #   definitely need abstraction for the player list, it's really hard to read and can be done better.
-#
+#   Can't really add comments, everything is organized as is, I honestly need to take some courses on proper commenting skills.
