@@ -135,4 +135,5 @@ end
 
 # This test is nothing compared to the JavaScript objects test. 5:37am timestamp for later kicking myself for stroking my ego
 
-
+# How to improve on this:
+#   definitely need abstraction for the player list, it's really hard to read and can be done better.
